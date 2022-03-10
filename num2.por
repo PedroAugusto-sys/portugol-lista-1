@@ -19,7 +19,7 @@ programa
 	leia(pol)
 
 
-	mili = pol/25.4
+	mili = pol*25.4
 
 	
 	escreva("O conversor fez com que a quantiade de chuva em polegadas,virou em mili: " + mili)

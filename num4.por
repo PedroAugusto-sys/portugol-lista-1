@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	
+inclua biblioteca Matematica --> mat
 
 	
 	funcao inicio()
@@ -20,7 +21,7 @@ programa
 	 
 	distancia = mat.raiz(((x2-x1))+(y2+y1),2.0)
 	
-	//distancia = mat.raiz(((x2-x1)^2)+(y2+y1)^2),)
+	//distancia = mat.raiz(((x2-x1)^2)+(y2+y1)
 		
 
 	

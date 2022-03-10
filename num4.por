@@ -19,7 +19,7 @@ inclua biblioteca Matematica --> mat
 	escreva("Informe o y2 de A: ")
 	leia(y2)
 	 
-	distancia = mat.raiz(((x2-x1))+(y2+y1),2.0)
+	distancia = mat.raiz((((x2-x1)*(x2-x1)))+((y2+y1)*(y2+y1)),2.0)
 	
 	
 		
